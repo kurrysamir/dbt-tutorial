@@ -35,13 +35,13 @@ The practical section will go through a real-world Airbnb project. Here, we are 
 
 TECHNICAL TOPICS:
 
-dbt Models
-dbt Materializations
-dbt Tests
-dbt Documentation
-dbt Sources, Seeds, Snapshots
-dbt Hooks and Operations
-Jinja and Macros
-Analyses, Exposures
-dbt Seeds
+dbt Models /
+dbt Materializations / 
+dbt Tests /
+dbt Documentation /
+dbt Sources, Seeds, Snapshots /
+dbt Hooks and Operations /
+Jinja and Macros /
+Analyses, Exposures /
+dbt Seeds /
 Data Visualization (Preset)
