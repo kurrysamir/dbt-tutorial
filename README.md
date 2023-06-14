@@ -16,15 +16,15 @@ THEORETICAL SECTION:
 
 Among several other topics, the theoretical section puts special emphasis on transferring knowledge in the following areas:
 
-Data-Maturity Model
-Well-functioning Data Architectures
-Data Warehouses, Data Lakes, and Data Lakehouses
-ETL and ELT procedures and Data Transformations
-Fundamentals of dbt (Data Build Tool)
-Analytics Engineering
-Normalization
-Slowly Changing Dimensions
-CTEs
+Data-Maturity Model,
+Well-functioning Data Architectures,
+Data Warehouses, Data Lakes, and Data Lakehouses,
+ETL and ELT procedures and Data Transformations,
+Fundamentals of dbt (Data Build Tool),
+Analytics Engineering,
+Normalization,
+Slowly Changing Dimensions,
+CTEs.
 
 
 PRACTICAL SECTION:
